@@ -1,0 +1,33 @@
+# Data
+data/raw/
+data/processed/
+*.csv
+*.h5
+*.hdf5
+
+# Model weights & experiment outputs
+experiments/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets / config
+.env
+wandb/
