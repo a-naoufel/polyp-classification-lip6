@@ -49,3 +49,15 @@ polyp-classification-lip6/
 ├── results/     # Final figures and tables
 ├── docs/        # Notes and report drafts
 └── data/        # Dataset location (not tracked — see data/README.md)
+```
+## Sample Images
+
+To train robust classification models, our dataset includes multiple morphological classes of colorectal tissue. Below are representative examples of the primary categories targeted by our deep learning pipeline:
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tubular_adenoma_%281%29_-_colonoscopy.jpg/320px-Tubular_adenoma_%281%29_-_colonoscopy.jpg" alt="Adenomatous Polyp" width="30%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hyperplastic_polyp_2_colonoscopy.jpg/320px-Hyperplastic_polyp_2_colonoscopy.jpg" alt="Hyperplastic Polyp" width="30%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sessile_serrated_adenoma_colonoscopy.jpg/320px-Sessile_serrated_adenoma_colonoscopy.jpg" alt="Sessile Serrated Adenoma" width="30%"/>
+</p>
+
+<p align="center"><em>Morphological variations under endoscopy. Left to Right: <strong>Adenomatous Polyp</strong> (neoplastic, tube-like vascular network), <strong>Hyperplastic Polyp</strong> (benign, smooth and pale surface), and <strong>Sessile Serrated Adenoma</strong> (pre-cancerous, flat structure often covered with mucus). (Source: Wikimedia Commons)</em></p>
