@@ -48,6 +48,8 @@ polyp-classification-lip6/
 ├── results/     # Final figures and tables
 ├── docs/        # Notes and report drafts
 └── data/        # Dataset location (not tracked — see data/README.md)
+```
+
 ## Sample Images
 
 Examples of colonoscopy images from the dataset:
